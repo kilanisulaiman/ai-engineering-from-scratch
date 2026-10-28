@@ -1,0 +1,8 @@
+AI Engineering From Scratch — Learning Progress
+
+Section: Git and Collaboration
+
+- Forked the original course repository.
+- Cloned my fork to my computer.
+- Created the my-progress branch.
+- Practised Git commits, branch management, and .gitignore in a separate practice repository.
